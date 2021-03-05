@@ -1,0 +1,29 @@
+#EXTM3U url-tvg="http://10.8.0.134:8080/jtv.zip" deinterlace=1
+#EXTINF:-1, TV 1000 World Kino
+http://195.189.105.158:9050/121/index.m3u8
+#EXTINF:-1, TV 1000 Русское кино (Резерв2)
+http://185.74.7.220:8080/tv1000ru/tracks-v1a1/index.m3u8
+#EXTINF:-1, TV XX1 ВЕК (SD)
+http://51.68.141.106:8081/tv/tv-xxi/playlist.m3u8
+#EXTINF:-1, TV1000 Action East HD
+http://myott.top/stream/DIPK8H19CP8/100.m3u8
+#EXTINF:-1, TV1000 East HD
+http://myott.top/stream/DIPK8H19CP8/110.m3u8
+#EXTINF:-1, TV1000 Русское кино
+http://myott.top/stream/DIPK8H19CP8/123.m3u8
+#EXTINF:-1, ViP Megahit HD
+http://myott.top/stream/DIPK8H19CP8/200.m3u8
+#EXTINF:-1, ViP Premiere HD
+http://myott.top/stream/DIPK8H19CP8/202.m3u8
+#EXTINF:-1, ViP Serial HD
+http://myott.top/stream/DIPK8H19CP8/311.m3u8
+#EXTINF:-1, Киномикс HD
+http://myott.top/stream/DIPK8H19CP8/133.m3u8
+#EXTINF:-1, Кинопоказ HD
+http://myott.top/stream/DIPK8H19CP8/64.m3u8
+#EXTINF:-1, Кинопремьера HD
+http://myott.top/stream/DIPK8H19CP8/160.m3u8
+#EXTINF:-1, Кинопремьера HD (Резерв)
+http://185.74.7.220:8080/kinopremyera/tracks-v1a1/index.m3u8
+#EXTINF:-1, Millenium TV
+http://tv1.mmg.ooo/live/sd.stream/playlist.m3u8
