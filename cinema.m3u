@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://10.8.0.134:8080/jtv.zip" deinterlace=1
+#EXTM3U 
 #EXTINF:-1, TV 1000 World Kino
 http://195.189.105.158:9050/121/index.m3u8
 #EXTINF:-1, TV 1000 Русское кино (Резерв2)
