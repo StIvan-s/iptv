@@ -1,0 +1,99 @@
+#EXTM3U url-tvg="http://10.8.0.134:8080/jtv.zip" deinterlace=1
+#EXTINF:0 tvg-name="1TV" , Первый
+rtp://235.1.10.1:10000
+#EXTINF:1 tvg-name="RTR_REG" , Россия 1
+rtp://235.1.10.2:10000
+#EXTINF:2 tvg-name="MatchTV" , Матч ТВ
+rtp://235.1.10.3:10000
+#EXTINF:3 tvg-name="NTV" , НТВ
+rtp://235.1.10.4:10000
+#EXTINF:4 tvg-name="Piter5_RUS" , 5 канал
+rtp://235.1.10.5:10000
+#EXTINF:5 tvg-name="KUL" , Россия К
+rtp://235.1.10.6:10000
+#EXTINF:6 tvg-name="Ves24" , Россия 24
+rtp://235.1.10.7:10000
+#EXTINF:7 tvg-name="Karusel" , Карусель
+rtp://235.1.10.12:10000
+#EXTINF:8 tvg-name="OTR" , ОТР
+rtp://235.1.10.147:10000
+#EXTINF:9 tvg-name="TVC_REG" , ТВЦ
+rtp://235.1.10.10:10000
+#EXTINF:10 tvg-name="RenTV_REG" , Рен ТВ
+rtp://235.1.10.14:10000
+#EXTINF:11 tvg-name="SPAS" , Спас
+rtp://235.1.10.205:10000
+#EXTINF:12 tvg-name="STS" , СТС
+rtp://235.1.10.11:10000
+#EXTINF:13 tvg-name="DOMASHNIY" , Домашний
+rtp://235.1.10.15:10000
+#EXTINF:14 tvg-name="TV3_REG" , ТВ3
+rtp://235.1.10.27:10000
+#EXTINF:15 tvg-name="Friday" , Пятница
+rtp://235.1.10.90:10000
+#EXTINF:16 tvg-name="ZVEZDA" , Звезда
+rtp://235.1.10.13:10000
+#EXTINF:17 tvg-name="MIR" , Мир
+rtp://235.1.10.192:10000
+#EXTINF:18 tvg-name="TNT_REG" , ТНТ
+rtp://235.1.10.19:10000
+#EXTINF:19 tvg-name="MUZ_TVnew" , Муз ТВ
+rtp://235.1.10.120:10000
+#EXTINF:20 tvg-name="TVGubVoron" , TV Губерния
+rtp://235.1.10.188:10000
+#EXTINF:19 tvg-name="Izvestiy" , Известия Воронеж
+rtp://235.1.10.24:10000
+#EXTINF:21 tvg-name="U" , Ю
+rtp://235.1.10.22:10000
+#EXTINF:22 tvg-name="Che" , Че
+rtp://235.1.10.9:10000
+#EXTINF:23 tvg-name="Disney" , Дисней
+rtp://235.1.10.60:10000
+#EXTINF:25 tvg-name="SovetFeder" , Вместе-РФ
+rtp://235.1.10.198:10000
+#EXTINF:26 tvg-name="1TV" , Первый Тест
+rtp://235.1.10.101:10000
+#EXTINF:27 tvg-name="RTR_REG" , Россия 1 Тест
+rtp://235.1.10.102:10000
+#EXTINF:28 tvg-name="MatchTV" , Матч ТВ Тест
+rtp://235.1.10.103:10000
+#EXTINF:29 tvg-name="NTV" , НТВ Тест
+rtp://235.1.10.104:10000
+#EXTINF:30 tvg-name="Piter5_RUS" , 5 канал Тест
+rtp://235.1.10.105:10000
+#EXTINF:31 tvg-name="Ves24" , Россия 24 Тест
+rtp://235.1.10.107:10000
+#EXTINF:32 tvg-name="TVC_REG" , ТВЦ Тест
+rtp://235.1.10.110:10000
+#EXTINF:33 tvg-name="STS" , СТС Тест
+rtp://235.1.10.111:10000
+#EXTINF:34 tvg-name="TNT_REG" , ТНТ Тест
+rtp://235.1.10.119:10000
+#EXTINF:35 tvg-name="RenTV_REG" , Рен ТВ Тест
+rtp://235.1.10.114:10000
+#EXTINF:36 tvg-name="DOMASHNIY" , Домашний Тест
+rtp://235.1.10.15:10000
+#EXTINF:37 tvg-name="Che" , Че Тест
+rtp://235.1.10.109:10000
+#EXTINF:38 tvg-name="1TV" , Первый HD 
+rtp://235.1.10.123:10000
+#EXTINF:39 tvg-name="RTRHD" , Россия 1 HD
+rtp://235.1.10.150:10000
+#EXTINF:40 tvg-name="NANO_TV" , Нано
+rtp://235.1.10.122:10000
+#EXTINF:41 tvg-name="STSLove" , СТС Love
+rtp://235.1.10.187:10000
+#EXTINF:42 tvg-name="MirHD" , Мир premium HD
+rtp://235.1.10.23:10000
+#EXTINF:42 tvg-name="MIR" , Мир
+rtp://235.1.10.192:10000
+#EXTINF:43 tvg-name="KTV-Forum" , КТВ-Воронеж
+rtp://235.1.10.36:10000
+#EXTINF:44 tvg-name="Tnomer" , Тномер
+rtp://235.1.10.100:10000
+#EXTINF:45 tvg-name="KrasLin" , Красная линия
+rtp://235.1.10.193:10000
+#EXTINF:46 tvg-name="zhar-ptica" , Жар птица
+rtp://235.1.10.237:10000
+#EXTINF:47 tvg-name="41tvVoron" , ВТК 41 'АРГУС'
+rtp://235.1.10.49:10000
